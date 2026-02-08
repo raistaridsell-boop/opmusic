@@ -13,7 +13,7 @@ OWNER_USERNAME = getenv("OWNER_USERNAME","krish_hu_bc")
 BOT_USERNAME = getenv("BOT_USERNAME" , "krishxmusiicbot")
 BOT_NAME = getenv("BOT_NAME" , "𝐊ʀɪsʜꭙ ᴍᴜsɪᴄ˼ ㋛︎")
 ASSUSERNAME = getenv("ASSUSERNAME" , "KRISH")
-C")
+
 MONGO_DB_URI = getenv("MONGO_DB_URI", None)
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 17000))
 LOGGER_ID = int(getenv("LOGGER_ID", -1003601301106))
